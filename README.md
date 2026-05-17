@@ -46,7 +46,7 @@ A US-based Ecommerce Sales Company wanted to create an interactive Sales Dashboa
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ### Main Dashboard
 ![Dashboard](Images/dashboard.png)
